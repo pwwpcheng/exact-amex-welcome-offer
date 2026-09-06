@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name         Exact Amex Welcome Offers
 // @namespace    http://tampermonkey.net/
+// @downloadURL    https://raw.githubusercontent.com/pwwpcheng/exact-amex-welcome-offer/refs/heads/main/exact-amex-welcome-offer.js
+// @updateURL    https://raw.githubusercontent.com/pwwpcheng/exact-amex-welcome-offer/refs/heads/main/exact-amex-welcome-offer.js
 // @version      2.2
 // @description  Displays PZN business card offers and exact personal-card welcome offer details
 // @match        https://www.americanexpress.com/en-us/credit-cards/business/*
