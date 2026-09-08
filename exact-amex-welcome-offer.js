@@ -3,10 +3,11 @@
 // @namespace    http://tampermonkey.net/
 // @downloadURL  https://raw.githubusercontent.com/pwwpcheng/exact-amex-welcome-offer/refs/heads/main/exact-amex-welcome-offer.js
 // @updateURL    https://raw.githubusercontent.com/pwwpcheng/exact-amex-welcome-offer/refs/heads/main/exact-amex-welcome-offer.js
-// @version      2.4
+// @version      2.5
 // @description  Displays amex business card offers and exact personal-card welcome offer details
 // @match        https://www.americanexpress.com/en-us/credit-cards/business/*
 // @match        https://www.americanexpress.com/us/credit-cards/business/*
+// @match        https://www.americanexpress.com/en-us/credit-cards/apply/business/*
 // @match        https://www.americanexpress.com/en-us/credit-cards/apply/personal/*
 // @match        https://dxpcardappv3.americanexpress.com/us/credit-cards/card-application/apply/print/*
 // @grant        none
